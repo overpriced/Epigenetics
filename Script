@@ -1,3 +1,4 @@
+x=7
 IF x>1:
   print "true"
   else:
