@@ -4,19 +4,3 @@ IF x>1:
   else:
   print "false"
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
